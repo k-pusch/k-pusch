@@ -6,6 +6,6 @@ Recently I get more and more into Backend and Machine Learning 🌈
 
 ✨ Pronouns: she/her
 
-🔭 I’m currently working on my golang skills
+🔭 I’m working on my golang skills
 
 🌱 I’m currently learning: golang, python and machine learning
