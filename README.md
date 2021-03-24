@@ -5,5 +5,7 @@ Since I have mostly concentraded on frontend so far, I'm currently further expan
 Recently I get more and more into Backend and Machine Learning 🌈
 
 ✨ Pronouns: she/her
+
 🔭 I’m currently working on my golang skills
+
 🌱 I’m currently learning: golang, python and machine learning
