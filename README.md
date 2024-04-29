@@ -1,9 +1,10 @@
 ### Hej there! I am Kristina Pusch 🤘🏻
 
-I am a software engineer with 4+ years of experience.
-Since I have mostly concentraded on frontend so far, I'm currently further expanding my skill set. 
-Recently I get more and more into Backend and Machine Learning 🌈
+Tech enthusiast turned team leader at Axel Springer National Media & Tech GmbH. 
+Specializing in Golang, React.js, and AWS. Dedicated to fostering talent and maintaining service uptime. 
+
+Formerly a web wizard at W&S Epic Werbeagentur. Let's chat tech and exchange ideas!
 
 ✨ Pronouns: she/her
 
-🌱 I’m currently learning: golang, python and machine learning
+🌱 I’m currently learning: people management
